@@ -1,0 +1,24 @@
+ERROR 2018/08/16 17:53:39 utils.go:100: pq: ç”¨æˆ· "liu" Password è®¤è¯å¤±è´¥ Cannot create user
+ERROR 2018/08/16 17:53:41 utils.go:100: pq: ç”¨æˆ· "liu" Password è®¤è¯å¤±è´¥ Cannot find user
+ERROR 2018/08/16 17:53:43 utils.go:100: pq: ç”¨æˆ· "liu" Password è®¤è¯å¤±è´¥ Cannot find user
+ERROR 2018/08/16 17:54:35 utils.go:100: pq: ç”¨æˆ· "liu" Password è®¤è¯å¤±è´¥ Cannot create user
+ERROR 2018/08/16 17:54:36 utils.go:100: pq: ç”¨æˆ· "liu" Password è®¤è¯å¤±è´¥ Cannot find user
+ERROR 2018/08/16 17:54:37 utils.go:100: pq: ç”¨æˆ· "liu" Password è®¤è¯å¤±è´¥ Cannot find user
+ERROR 2018/08/16 18:00:27 utils.go:100: sql: no rows in result set Cannot find user
+ERROR 2018/08/16 20:42:18 utils.go:100: pq: å¯¹å…³ç³» users æƒé™ä¸å¤Ÿ Cannot create user
+ERROR 2018/08/16 20:42:22 utils.go:100: pq: å¯¹å…³ç³» users æƒé™ä¸å¤Ÿ Cannot find user
+ERROR 2018/08/16 20:42:28 utils.go:100: pq: å¯¹å…³ç³» users æƒé™ä¸å¤Ÿ Cannot find user
+WARNING 2018/08/16 21:17:25 utils.go:105: <nil> Failed to get cookie
+WARNING 2018/08/16 21:18:53 utils.go:105: <nil> Failed to get cookie
+ERROR 2019/02/18 20:51:55 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot create user
+ERROR 2019/02/18 20:52:05 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot find user
+ERROR 2019/02/18 20:52:17 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot find user
+ERROR 2019/02/18 20:52:52 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot create user
+ERROR 2019/02/18 20:53:00 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot find user
+ERROR 2019/02/18 20:54:13 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot find user
+ERROR 2019/02/18 20:56:41 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot find user
+ERROR 2019/02/18 22:36:29 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot create user
+ERROR 2019/02/18 22:38:01 utils.go:117: pq: ÓÃ»§ "chitchat" Password ÈÏÖ¤Ê§°Ü Cannot create user
+ERROR 2019/02/18 22:38:37 utils.go:117: pq: permission denied for table users Cannot create user
+ERROR 2019/02/18 22:42:49 utils.go:117: pq: permission denied for table users Cannot find user
+ERROR 2019/02/18 22:43:16 utils.go:117: pq: permission denied for table users Cannot find user
